@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "記憶のどこかで",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-14T09:40:26.302486Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "記憶のどこかで",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_記憶のどこかで_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "記憶のどこかで",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_記憶のどこかで_=LOVE.txt"
+    }
+  ]
+}
